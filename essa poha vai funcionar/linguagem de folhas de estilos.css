@@ -1,0 +1,39 @@
+p{color:red;
+}
+
+h1 { 
+    color: rgb(42, 165, 56);
+    }
+
+    html { 
+        font-size:medium;
+    font-family: cursive;
+    }
+    h1 {
+        text-align:center;
+        line-height:2;
+        letter-spacing: 1px;
+    }
+
+html { 
+    background-color: rgb(251, 250, 250);
+}
+body {
+    width: 750px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 30px 30px 30px;
+    border: 30px solid rgba(90, 85, 85, 0.63);
+  }
+
+  h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
